@@ -1,0 +1,43 @@
+{
+	"name": "Talentos",
+	"title": "Talentos",
+	"description": "Adiciona talentos para substituir feats e expande a lista de armas e armaduras disponíveis.",
+	"author": "DoppelBF",
+	"version": "1.0.2",
+	"minimumCoreVersion": "0.6.2",
+	"compatibleCoreVersion": "0.6.5",
+	"url": "https://github.com/DaniloBF/talentos/tree/master",
+	"download": "https://github.com/DaniloBF/talentos/archive/master.zip",
+	"system": "dnd5e",
+	"manifest": "https://raw.githubusercontent.com/DaniloBF/talentos/master/module.json",
+	"packs": [
+		{
+			"name": "talentos-skills",
+			"label": "Talentos (Skills)",
+			"system": "dnd5e",
+			"path": "packs/talentos-skills.db",
+			"entity": "Item"
+		},
+		{
+			"name": "talentos-specialty",
+			"label": "Talentos (Specialty)",
+			"system": "dnd5e",
+			"path": "packs/talentos-specialty.db",
+			"entity": "Item"
+		},
+		{
+			"name": "talentos-combat-especialization",
+			"label": "Talentos (Combat Especialization)",
+			"system": "dnd5e",
+			"path": "packs/talentos-combat-especialization.db",
+			"entity": "Item"
+		},
+		{
+			"name": "talentos-shields-and-weapons",
+			"label": "Talentos (Shields and Weapons)",
+			"system": "dnd5e",
+			"path": "packs/talentos-shields-and-weapons.db",
+			"entity": "Item"
+		}
+	]
+}
