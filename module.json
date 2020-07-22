@@ -3,7 +3,7 @@
 	"title": "Talentos",
 	"description": "Adiciona talentos para substituir feats e expande a lista de armas e armaduras disponíveis.",
 	"author": "DoppelBF",
-	"version": "1.0.5",
+	"version": "1.0.6",
 	"minimumCoreVersion": "0.6.2",
 	"compatibleCoreVersion": "0.6.5",
 	"url": "https://github.com/DaniloBF/talentos/tree/master",
