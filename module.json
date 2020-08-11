@@ -3,7 +3,7 @@
 	"title": "Talentos",
 	"description": "Adiciona talentos para substituir feats e expande a lista de armas e armaduras disponíveis.",
 	"author": "DoppelBF",
-	"version": "1.0.7.2",
+	"version": "1.0.8",
 	"minimumCoreVersion": "0.6.2",
 	"compatibleCoreVersion": "0.6.5",
 	"url": "https://github.com/DaniloBF/talentos/tree/master",
@@ -37,6 +37,13 @@
 			"label": "Talentos (Shields and Weapons)",
 			"system": "dnd5e",
 			"path": "packs/talentos-shields-and-weapons.db",
+			"entity": "Item"
+		},
+		{
+			"name": "separadores",
+			"label": "Separadores (Features)",
+			"system": "dnd5e",
+			"path": "packs/separadores.db",
 			"entity": "Item"
 		}
 	]
